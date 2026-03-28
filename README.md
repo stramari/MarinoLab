@@ -9,6 +9,7 @@
 [![Android](https://img.shields.io/badge/Android-5.0%2B-green?style=flat-square&logo=android)](https://github.com/stramari/MarinoLab/releases/latest)
 [![License](https://img.shields.io/badge/licenza-Trial%207gg%20%7C%20Full-orange?style=flat-square)](https://marinolab.lemonsqueezy.com/)
 [![Download](https://img.shields.io/badge/⬇%20Download-APK-blue?style=flat-square)](https://github.com/stramari/MarinoLab/releases/latest)
+[![Lingua](https://img.shields.io/badge/lingua-%F0%9F%87%AE%F0%9F%87%B9%20Italiano%20%7C%20%F0%9F%87%AC%F0%9F%87%A7%20English-lightgrey?style=flat-square)](https://github.com/stramari/MarinoLab)
 
 ---
 
@@ -105,7 +106,7 @@ Al termine del trial, puoi acquistare la licenza full su:
 
 👉 **[marinolab.lemonsqueezy.com](https://marinolab.lemonsqueezy.com/)**
 
-La licenza si sincronizza automaticamente dal telefono al tablet via connessione locale — basta attivarla una volta sul Server.
+**Non è necessario scaricare o reinstallare nulla.** Dopo l'acquisto riceverai una mail con la tua chiave di licenza nel formato `XXXX-XXXX-XXXX-XXXX`. Inseriscila nell'app Server alla voce **"Attiva Licenza"** — verrà sincronizzata automaticamente anche sul tablet.
 
 > ⚠️ **Anti-reset**: il sistema di protezione del trial è progettato per resistere a reset della data o reinstallazioni.
 
