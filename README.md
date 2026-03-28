@@ -5,10 +5,10 @@
 
 > Trasforma il tuo smartphone e un tablet in un sistema di infotainment professionale per l'auto — senza modifiche hardware.
 
-[![Version](https://img.shields.io/badge/version-1.0-cyan?style=flat-square)](https://github.com/MarinoLab/cardash)
-[![Android](https://img.shields.io/badge/Android-5.0%2B-green?style=flat-square&logo=android)](https://github.com/MarinoLab/cardash)
+[![Version](https://img.shields.io/badge/version-1.0-cyan?style=flat-square)](https://github.com/stramari/MarinoLab/releases/latest)
+[![Android](https://img.shields.io/badge/Android-5.0%2B-green?style=flat-square&logo=android)](https://github.com/stramari/MarinoLab/releases/latest)
 [![License](https://img.shields.io/badge/licenza-Trial%207gg%20%7C%20Full-orange?style=flat-square)](https://marinolab.lemonsqueezy.com/)
-[![Download](https://img.shields.io/badge/⬇%20Download-APK-blue?style=flat-square)](https://github.com/MarinoLab/cardash)
+[![Download](https://img.shields.io/badge/⬇%20Download-APK-blue?style=flat-square)](https://github.com/stramari/MarinoLab/releases/latest)
 
 ---
 
@@ -84,8 +84,8 @@
 
 | App | Dispositivo | Link |
 |---|---|---|
-| `CarDash Server` | 📱 Smartphone | [⬇ Download APK](https://github.com/MarinoLab/cardash/releases) |
-| `CarDash Bridge` | 🖥️ Tablet | [⬇ Download APK](https://github.com/MarinoLab/cardash/releases) |
+| `CarDash Server` | 📱 Smartphone | [⬇ Download APK](https://github.com/stramari/MarinoLab/releases/latest) |
+| `CarDash Bridge` | 🖥️ Tablet | [⬇ Download APK](https://github.com/stramari/MarinoLab/releases/latest) |
 
 **2. Concedi i permessi**
 
