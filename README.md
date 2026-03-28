@@ -45,12 +45,12 @@
 
 | Pannello Principale | Salva Parcheggio | Guida Bussola |
 |---|---|---|
-| ![Server Main](docs/screenshots/server_main.png) | ![Server Parking](docs/screenshots/server_parking.png) | ![Bussola](docs/screenshots/compass.png) |
+| ![Server Main](docs/screenshots/server_main.jpg) | ![Server Parking](docs/screenshots/server_parking.jpg) | ![Bussola](docs/screenshots/compass.jpg) |
 
 > La **Guida Bussola** ti indica la direzione e la distanza esatta dalla tua auto parcheggiata.
 
 ### Attivazione Licenza
-![Licenza](docs/screenshots/license.png)
+![Licenza](docs/screenshots/license.jpg)
 
 ---
 
